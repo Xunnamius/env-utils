@@ -1,4 +1,4 @@
-# env-expect
+# expect-env
 [WIP]
 
 - Node escaping needs double slash
